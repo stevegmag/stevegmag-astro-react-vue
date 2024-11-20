@@ -1,0 +1,267 @@
+{
+ "projects": [
+    { "project-id": "0000",
+      "client-name": "",
+      "has-sub-projects": false,
+      "sub-projects": [ "", "" ],     
+      "is-sub-Project": false,
+      "employer": "",
+      "url": "",
+      "role": "Lead [Full-Stack | Front-end] Developer",
+      "team-size": "2+ Dev Team",
+      "year": "2016",
+      "logo": "img/portfolio/SAMS-flag.png",
+
+      "services": [ "", "" ],
+      "technologies": [ "" ],
+      "activities": [ "" ], 
+      "screenshots": [ "", "" ]
+    },
+
+    { "project-id": "0001",
+      "client-name": "Samsung Display",
+      "has-sub-projects": true,
+      "sub-projects": [ "0001-a", "0001-b" ],
+      "is-sub-Project": false,
+      "employer": "Jellyfish",
+      "url": "",
+      "role": "Lead Full-Stack Developer",
+      "team-size": "2+ Dev Team",
+      "years": "2016",
+      "logo": "img/portfolio/SAMS-flag.png",
+
+      "services": [ ],
+      "technologies": [ ],
+      "activities": [ ],
+      "screenshots": [ ]
+    },
+
+    { "project-id": "0001-a",
+      "client-name": "Samsung Display - Public Information Display",
+      "has-sub-projects": false,
+      "sub-projects": [],
+      "is-sub-Project": true,
+      "employer": "Jellyfish",
+      "url": "https://pid.samsungdisplay.com/en",
+      "role": "Lead Full-Stack Developer",
+      "team-size": "2+ Dev Team",
+      "years": "2016",
+      "logo": "img/portfolio/SAMS-flag.png",
+
+      "services": [
+        "Drupal Development and Theming",
+        "CRO testing"
+      ],
+      "technologies": [
+        "Drupal 7/8/9",
+        "Bootstrap"
+      ],
+      "activities": [
+        "Custom Drupal Bootstrap Theme Development",
+        "Drupal Back-end Configuration and Development",
+        "Drupal Custom Module Development",
+        "Custom Single Page App (SPA) - Contact Map Directory",
+        "Drupal Multilingual Site: EN / KO / CN",
+        "HubSpot Support and Integration",
+        "Conversion Rate Optimization (CRO) (Optimize360)",
+        "Site QA Testing and Remediation",
+        "Performance anf Accessibility Testing and Remediation"
+      ],
+      "screenshots": [
+        "img/portfolio/screenshots/pid-samsungdisplay-home.png",
+        "img/portfolio/screenshots/pid-samsungdisplay-contactMap.png"
+      ]
+    },
+
+    { "project-id": "0001-b",
+      "client-name": "Samsung: QD-OLED Innovate",
+      "has-sub-projects": false,
+      "sub-projects": [],
+      "is-sub-Project": true,
+      "employer": "Jellyfish",
+      "url": "https://innovate.samsungdisplay.com/",
+      "role": "Lead Full-Stack Developer",
+      "team-size": "4+ Dev Team",
+      "years": "2016",
+      "logo": "img/portfolio/SAMS-flag.png",
+
+      "services": [
+        "Wordpress Development and Theming",
+        "CRO Testing"
+      ],
+      "technologies": [
+        "Wordpress - Custome Theme, Gutenberg, ACF",
+        "HubSpot"
+      ],
+      "activities": [
+        "UX/UI Wireframe and Design Reviews and Approvals",
+        "Wordpress Back-end Configuration and Development",
+        "Custom Wordpress Theme and Gutenberg Component Development",
+        "HubSpot Support and Integration",
+        "Directed and oversaw Jr Developers",
+        "Code reviews",
+        "Site QA Testing and Remediation",
+        "Performance anf Accessibility Testing and Remediation",
+        "Conversion Rate Optimization (CRO) (Optimize360)"
+      ],
+      "screenshots": [ "img/portfolio/screenshots/innovate-samsungdisplay.png" ]
+    },
+
+    { "project-id": "0002",
+      "client-name": "Walden University",
+      "has-sub-projects": false,
+      "sub-projects": [ "", "" ],     
+      "is-sub-Project": false,
+      "employer": "Jellyfish",
+      "url": "https://info.waldenu.edu/",
+      "role": "Lead Front-end Developer",
+      "team-size": "6+ Dev Team",
+      "year": "2016-2024",
+      "logo": "img/portfolio/WALD-flag.png",
+
+      "services": [ "Landing Pages", "Sitecore Theming", "CRO Testing" ],
+      "technologies": [ "Sitecore", "PHP", "Gulp", "jQuery & ECMAscript", "Sass/SCSS" ],
+      "activities": [ 
+        "Multiple site support from single codebase",
+        "Advanced Gulp configuration",
+        "Custum Bootstrap Teheming",
+        "Custom PHP Component Development",
+        "Sitecore Component Integration",
+        "Google AMP implementation",
+        "Directed and oversaw Jr Developers",
+        "Code reviews",
+        "Site QA Testing and Remediation",
+        "Performance anf Accessibility Testing and Remediation",
+        "Conversion Rate Optimization (CRO) (Optimize360 & Optimizely)"
+      ], 
+      "screenshots": [ "img/portfolio/screenshots/info-waldenu-edu.png" ]
+    },
+
+    { "project-id": "0003",
+      "client-name": "Lincoln Technical Institute",
+      "has-sub-projects": false,
+      "sub-projects": [ "", "" ],     
+      "is-sub-Project": false,
+      "employer": "Jellyfish",
+      "url": "https://info.lincolntech-usa.com/",
+      "role": "Lead Full-Stack Developer",
+      "team-size": "6+ Dev Team",
+      "year": "2016-2024",
+      "logo": "img/portfolio/LTII-flag.png",
+
+      "services": [ "Landing Pages", "Wordpress Development & Theming", "CRO Testing" ],
+      "technologies": [ "Wordpress", "PHP", "ACF", "jQuery & ECMAscript", "Sass/SCSS" ],
+      "activities": [
+        "WordPress - Custom Bootstrap Based Theme",
+        "Custom Plugin Functionality",
+        "Custom Content Types - Advanced Custom Fields",
+        "Performance and Accessibility testing",
+        "Conversion Rate Optimization (Optimize 360)"
+      ], 
+      "screenshots": [ "img/portfolio/screenshots/info-waldenu-edu.png" ]
+    },
+
+    { "project-id": "0004",
+      "client-name": "Pearson's Connection Academy",
+      "has-sub-projects": false,
+      "sub-projects": [ "", "" ],     
+      "is-sub-Project": false,
+      "employer": "Jellyfish",
+      "url": "https://learn.connectionsacademy.com/alabama/",
+      "role": "Lead Full-Stack Developer",
+      "team-size": "6+ Dev Team",
+      "year": "2016-2024",
+      "logo": "img/portfolio/PEAR-flag.png",
+
+      "services": [ "Landing Pages", "Wordpress Development & Theming" ],
+      "technologies": [ "Wordpress", "PHP", "ACF", "jQuery & ECMAscript", "Sass/SCSS" ],
+      "activities": [
+        "Lead Full-Stack Developer / Maintenance – 6+ person team",
+        "WordPress - Multi-site - Custom Gutenberg Based Theme",
+        "Custom Plugin Functionality,",
+        "Custom Content Types - Advanced Custom Field",
+        "Performance and Accessibility testing"
+      ], 
+      "screenshots": [ "img/portfolio/screenshots/info-licontech.png" ]
+    },
+
+    { "project-id": "0005",
+      "client-name": "ConservatoryLand",
+      "has-sub-projects": false,
+      "sub-projects": [ "", "" ],     
+      "is-sub-Project": false,
+      "employer": "Jellyfish",
+      "url": "https://www.conservatoryland.com/",
+      "role": "Lead Front-end Developer",
+      "team-size": "8+ Dev Team",
+      "year": "2016-2024",
+      "logo": "img/portfolio/CONL-flag.png",
+
+      "services": [ "React Application Development", "Wordpress Development & Theming" ],
+      "technologies": [ "Wordpress", "React", "jQuery & ECMAscript", "Sass/SCSS" ],
+      "activities": [
+        "WordPress - Custom Theme",
+        "React Application - \"Get a Quote\" engine",
+        "Performance and Accessibility testing",
+        "Quality Assurance testing and remediation"
+      ], 
+      "screenshots": [ "img/portfolio/screenshots/conservatoryland.png" ]
+    },
+
+    { "project-id": "0006",
+      "client-name": "BAMTech / ESPN+",
+      "has-sub-projects": false,
+      "sub-projects": [ "", "" ],     
+      "is-sub-Project": false,
+      "employer": "Jellyfish",
+      "url": "https://watch.espnplus.com/sports/",
+      "role": "Lead Front-end Developer",
+      "team-size": "8+ Dev Team",
+      "year": "2016-2024",
+      "logo": "img/portfolio/ESPN-flag.png",
+
+      "services": [ "Landing Pages", "Wordpress Development & Theming", "CRO testing" ],
+      "technologies": [ "Wordpress", "PHP", "jQuery & ECMAscript", "Sass/SCSS" ],
+      "activities": [
+        "Lead Front-end Developer - 8+ person team",
+        "WordPress - Custom Gutenberg Based Theme",
+        "Multilingual site: EN / ES",
+        "Custom Content Types - Advanced Custom Fields",
+        "Conversion Rate Optimization (Optimize 360)",
+        "Performance and Accessibility testing",
+        "Quality Assurance testing and remediation"
+      ], 
+      "screenshots": [ "img/portfolio/screenshots/bamt-espn-mobile.png" ]
+    },
+
+    { "project-id": "0007",
+      "client-name": "BOAFit",
+      "has-sub-projects": false,
+      "sub-projects": [ "", "" ],     
+      "is-sub-Project": false,
+      "employer": "Jellyfish",
+      "url": "https://www.boafit.com/en-us/",
+      "role": "Lead Front-end Developer",
+      "team-size": "8+ Dev Team",
+      "year": "2016-2024",
+      "logo": "img/portfolio/BOA-flag2.png",
+
+      "services": [ "Drupal Development & Theming", "React Application Development", "Magento Development" ],
+      "technologies": [ "Wordpress", "PHP", "jQuery & ECMAscript", "Sass/SCSS" ],
+      "activities": [
+        "Lead Front-end Developer - 8+ person team",
+        "Drupal 8 - Custom Theme, Paragraphs, Views, Blocks",
+        "Multi-site / Multi-lingual / Multi-region",
+        "Led Development of reusable sites setup and components",
+        "Magento Warranty Store - Original Store Magento Front-end - Migration of store to Headless React application",
+        "Performance and Accessibility testing",
+        "Quality Assurance testing and remediation"
+      ], 
+      "screenshots": [ 
+        "img/portfolio/screenshots/boafit-en-us.png",
+        "img/portfolio/screenshots/boafit-en-us-warranty.png",
+        "img/portfolio/screenshots/boafit-store-en_us-checkout.png"
+      ]
+    }
+ ]
+}
