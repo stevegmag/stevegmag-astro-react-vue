@@ -1,0 +1,1 @@
+export const SITE_TITLE = "Steven Gallagher's Portfilio";
