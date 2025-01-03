@@ -1,0 +1,28 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import ReactPortfolio, { Hello } from '../components/ReactPortfolio';
+import VueProjectDetails from '../components/VueProjectDetails.vue';
+
+---
+
+<MainLayout title="index page">
+  <section id="intro">
+    <h1>Welcome to My Portfolio</h1>
+    <p>Senior JavaScript Developer specializing in React and Vue.</p>
+  </section>
+
+  <section id="portfolio">
+
+    <h2>My Projects: React</h2>    
+    {/* Include the React component(s) here  */}
+     <Hello />
+
+      {/*  React Portfolio  */}
+      <ReactPortfolio client:load showDetails={false} showBlock={true} />
+
+    <h2>My Projects: Vue</h2>   
+      {/* Vue Portfolio --> */}
+      <VueProjectDetails client:load />
+
+  </section>
+</MainLayout>
